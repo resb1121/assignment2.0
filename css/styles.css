@@ -1,13 +1,11 @@
 
-
+*{
+    box-sizing: border-box;
+}
     
-}
 
-.fresh {
-    box-shadow: 3px 3px black;
-}
 
-p1{
+p{
     font-family:serif;
 }
 
